@@ -1,0 +1,119 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+h1{
+    text-align: center;
+    font-family: Quicksand;
+    border: 9px solid black;
+    border-radius: 15px;
+    background-color: chocolate;
+    color:white;
+}
+
+h2{
+    text-align: center;
+    font-family: Quicksand;
+}
+h3{
+    text-align: center;
+    font-family: Quicksand;
+}
+
+p{
+    text-align: center;
+    font-family: Quicksand;
+    color: black;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border: 16px solid black;
+    border-radius: 10px;
+}
+body{
+    background-color: beige;
+    color: black; 
+    font-family: Quicksand;
+    margin: 0;
+    padding: 20px;
+}
+ul{
+    text-align: center;
+    margin: auto
+}
+
+ol{
+    text-align: center;
+    margin: auto;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border: 5px solid rgb(198, 139, 51);
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: white;
+}
+div{
+    border: 9px solid black;
+    border-radius: 15px;
+    background-color: bisque;
+    color:black;
+    width: 50%;
+    margin: auto;
+}
+.home{
+    border: 9px dotted grey;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #fbfbf5;
+    width: 50%;
+}
+
+.nav{
+    color: aliceblue;
+    position:fixed;
+    display:flex;
+    padding: 10px;
+    flex-direction: column;
+    gap: 10px;
+    width: 10vw;
+    margin-left: 125px;
+
+}
+
+h4{
+    text-align: center;
+    font-family: Quicksand;
+}
+section{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: darkcyan;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+span{
+    color: black;
+}
+
+section{
+    background-color: bisque;
+}
+
+.contact{
+    font-family: Quicksand;
+    text-align: center;
+    border: 9px dotted black;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin: auto;
+    width: 30%;
+}
